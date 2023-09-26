@@ -1,4 +1,4 @@
-![logo](https://github.com/jokallu431/jokallu431/blob/main/Banner.png)
+![logo](https://github.com/jokallu431/jokallu431/blob/main/Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Kallupurakal Joshua Francis</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jokallu431&label=Profile%20views&color=0e75b6&style=flat" alt="jokallu431" /> </p>
