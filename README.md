@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jokallu431&label=Profile%20views&color=0e75b6&style=flat" alt="jokallu431" /> </p>
 
-- 🔭 I’m currently working in **Reflexion.ai**
+- 🔭 I’m currently working in **[Reflexion.ai](https://github.com/jokallu431)**
 
 - 🌱 I’m currently learning **Advance Web Development.**
 
