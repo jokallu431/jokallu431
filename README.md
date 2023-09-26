@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kallupurakal Joshua Francis</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jokallu431&label=Profile%20views&color=0e75b6&style=flat" alt="jokallu431" /> </p>
 
 - 🔭 I’m currently working in **Reflexion.ai**
@@ -10,7 +9,6 @@
 - 👨‍💻 My projects are available at [https://github.com/jokallu431](https://github.com/jokallu431)
 
 - 💬 Ask me about **Full stack Development.**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jokallu431&label=Profile%20views&color=0e75b6&style=flat" alt="jokallu431" /> </p>
 
 - 📫 How to reach me **joshuakallupurkal@gmail.com**
 
