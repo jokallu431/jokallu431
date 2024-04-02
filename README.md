@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **joshuakallupurkal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1V9DHACL5Us2Wjp7pJEp7Gp_8an9dwozC/view?usp=sharing](https://drive.google.com/file/d/1t9JtKullorcvRExbBbYCN83Wrc2igYL0/view?usp=drive_link)
+- 📄 Know about my experiences [Click Here For C.V ](https://drive.google.com/file/d/1HaOHiWV2l_zc0cbITp5_Zgvk8t97dchg/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am Good Learner.**
 
