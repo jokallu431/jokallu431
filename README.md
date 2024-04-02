@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently looking for a Job in IT Sector.
   
-- I worked in **[Reflexion.ai](https://www.reflexion.ai/)**
+- 👨‍💻I worked in **[Reflexion.ai](https://www.reflexion.ai/)**
 
 - 🌱 I’m currently learning **Advance Web Development.**
 
